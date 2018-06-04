@@ -36,7 +36,7 @@ for i in range(len(tekme)):
     else:
         denar -=1
         print("You lose -1€\n")
-print("Your wallet= " + str(denar))
+print("Your wallet= " + str(denar)+"€")
 # After user inputs all the results, program waits for 10 seconds and prints the result of matches.
 # Results are totally random, you can say that max. goals by one team is 5.
 # After results are displayed, program should output, how well were the bets.
